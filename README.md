@@ -40,7 +40,7 @@ On va donc essayer de	<ins>**comprendre ce qui influence les notes des joueurs e
 🔼Allouer des ressources équivalentes au **marketing et au développement**, un bon jeu a besoin d’une communication solide pour percer et pas seument d'un contenu qualitatif.
 
 ## 🚀 Livrables
-- 📓 [Notebook Jupyter complet](lien_vers_ton_notebook)  
+- 📓 [Notebook Jupyter complet](https://github.com/KeweSambe/Projet_jeux_videos_1/blob/main/Notebook%20Projet%201.ipynb) 
 - 📊 [Visualisations]()
 - 📝 Ce README (résumé)
 
