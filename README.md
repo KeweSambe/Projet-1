@@ -8,12 +8,6 @@ On va donc essayer de	<ins>**comprendre ce qui influence les notes des joueurs e
 - Évaluer la qualité perçue : comparer les notes et recommandations selon genres, plateformes et éditeurs.
 - Sortir des insights business : fournir des éléments utiles aux développeurs/éditeurs pour orienter leurs décisions
 
-### Méthodologie
-1. **Nettoyage des données**
-2. **Exploration (EDA)** 
-3. **Analyse business** 
-4. **Interprétation**
-
 ## 📈 TL,DR
 ### Exploration rapide (EDA)
 - **Genres les plus présents** : *Action = **20,2%**, Adventure= **15,7%**,Indie = **11.9%**, RPG= **9,3%***
@@ -36,8 +30,6 @@ On va donc essayer de	<ins>**comprendre ce qui influence les notes des joueurs e
 
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/be75b7b8-f9ac-42de-9b15-da7f415d6a9f" /> <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/779312c8-1f15-49e2-870e-d6e24632e218" />
 
-
-
 ## 🎯 Actions
 🔼 Favoriser le **multi-plateforme** pour maximiser l’engagement.
 
@@ -49,7 +41,7 @@ On va donc essayer de	<ins>**comprendre ce qui influence les notes des joueurs e
 
 ## 🚀 Livrables
 - 📓 [Notebook Jupyter complet](lien_vers_ton_notebook)  
-- 📊 [Visualisations](lien_vers_ton_dashboard) 
+- 📊 [Visualisations]()
 - 📝 Ce README (résumé)
 
 ## 📂 Source des données
