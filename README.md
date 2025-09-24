@@ -1,8 +1,7 @@
 # Projet-1: Analyse du marché des jeux vidéo 🎮
 ## 📌 Intro
 Ce dataset regroupe des informations sur 10 000 jeux vidéo populaires, incluant leurs genres, notes, plateformes, développeurs et éditeurs.
-On va donc essayer de 	<ins>**comprendre ce qui influence les notes des joueurs et les recommandations de la communauté**</ins> et de sortir des insights *utiles* pour les entreprises.
-Source : 
+On va donc essayer de	<ins>**comprendre ce qui influence les notes des joueurs et les recommandations de la communauté**</ins> et de sortir des insights *utiles* pour les entreprises.
 
 ### Objectifs de l’analyse
 - Explorer les tendances du marché : identifier les genres et plateformes dominants.
