@@ -1,4 +1,9 @@
 # Projet-1: Analyse du marché des jeux vidéo 🎮
+
+<p align="center">
+  <img width="600" height="200" alt="Banner Jeux Video" src="https://github.com/user-attachments/assets/ab612d58-d9e8-4efe-87b2-d067df73a0c3" />
+</p>
+
 ## 📌 Intro
 Ce dataset regroupe des informations sur 10 000 jeux vidéo populaires, incluant leurs genres, notes, plateformes, développeurs et éditeurs.
 On va donc essayer de	<ins>**comprendre ce qui influence les notes des joueurs et les recommandations de la communauté**</ins> et de sortir des insights *utiles* pour les entreprises.
