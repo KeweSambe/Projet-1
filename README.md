@@ -17,7 +17,7 @@ On va donc essayer de	<ins>**comprendre ce qui influence les notes des joueurs e
 ### Exploration rapide (EDA)
 - **Genres les plus présents** : *Action = **20,2%**, Adventure= **15,7%**,Indie = **11.9%**, RPG= **9,3%***
 - **Plateformes les plus utilisées** : *PC* reste dominant avec **38%**, *Nintendo **11.3%** et Mobile **9.4%*** en forte progression, **18.9%** pour Sony avec la Playstation.
-- **Type d'appareil**: Le marché reste dominé par **les consoles** et **le PC**, qui concentrent ensemble plus de **90% de l’offre**. Le **mobilé** est encore minoritaire  mais  il génère une part importante de revenus (free-to-play, microtransactions).
+- **Type d'appareil**: Le marché reste dominé par **les consoles** et **le PC**, qui concentrent ensemble plus de **90% de l’offre**. Le **mobile** est encore minoritaire  mais  il génère une part importante de revenus (free-to-play, microtransactions).
 
 ### Analyses business
 - **Genres vs Rating** : RPG = 3.92 ⭐ | FPS = 3.89 ⭐| Adventure = 3.88 ⭐.
